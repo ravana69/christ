@@ -28,7 +28,7 @@ const labels = [
   [ "Radio Lemon Live", "https://schedule.radiolemonlive.com:7443/radio/8000/live"],
   [ "Radio Green", "https://servidor15.brlogic.com:7110/ve"],
   [ "Radio Beats", "https://streamer.radio.co/sd0b826808/listen"],
-  [ "kNP Infotech", "http://radio.knpinfotech.co.in:8000/stream/1/?listening-from-radio-garden=1624554409280"],
+  [ "KNP Infotech", "http://radio.knpinfotech.co.in:8000/stream/1/?listening-from-radio-garden=1624554409280"],
   [ "Pallavi Radio", "https://pallaviradio.out.airtime.pro/pallaviradio_a"],
   [ "Radio Macfest", "https://radioindia.net/radio/macfast/icecast.audio"],
   [ "Radio Mirchi Kerala", "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw"],
