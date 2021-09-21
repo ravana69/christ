@@ -34,7 +34,7 @@ const labels = [
   [ "Radio Mirchi Kerala", "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw"],
   [ "London Malayalam Radio", "https://radio.garden/api/ara/content/listen/pxGu8wy2/channel.mp3?1626457544992"],
   [ "Club FM", "https://eu10.fastcast4u.com/clubfmuae"],
-  [ "radio mango", "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8"],
+  [ "Radio Mango", "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8"],
   [ "Asha Radio", "https://edge.mixlr.com/channel/gvufg"]
 ];
 
