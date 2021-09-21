@@ -1,15 +1,19 @@
 const sources = [
-  "http://stream.zeno.fm/y7n8qfmh838uv", // paradise
-  "http://stream.zeno.fm/39zagfub938uv", // party gong
-  "https://edge.mixlr.com/channel/gvufg", // folk forward
-  "http://94.23.26.22:8090/live.mp3" // punk fm
+  "http://stream.zeno.fm/y7n8qfmh838uv", // Ravana Fm
+  "http://stream.zeno.fm/39zagfub938uv", // Ravana FM 2
+  "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac", // 94.3
+  "https://edge.mixlr.com/channel/axxln", // Gramaphone FM
+  "https://listen.radioking.com/radio/305023/stream/354512" // patupetty
+  "https://edge.mixlr.com/channel/gvufg", // Asha Radio
 ];
 
 const labels = [
-  [ "Radio Paradise", "https://www.radioparadise.com" ],
-  [ "Party Gong", "https://www.radiogong.de/"],
-  [ "SomaFM Folk Forward", "http://somafm.com/folkfwd/"],
-  [ "Punk FM", " http://www.punkfm.co.uk/"]
+  [ "Ravana Fm", "http://stream.zeno.fm/y7n8qfmh838uv"],
+  [ "Ravana FM 2", "http://stream.zeno.fm/39zagfub938uv"],
+  [ "94.3", "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac"],
+  [ "Gramaphone FM", "https://edge.mixlr.com/channel/axxln"],
+  [ "Patupetty FM", "https://listen.radioking.com/radio/305023/stream/354512"],
+  [ "Asha Radio", "https://edge.mixlr.com/channel/gvufg"]
 ];
 
 let playingIndex = 0; // current radio
