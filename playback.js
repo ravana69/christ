@@ -4,6 +4,17 @@ const sources = [
   "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac", // 94.3
   "https://edge.mixlr.com/channel/axxln", // Gramaphone FM
   "https://listen.radioking.com/radio/305023/stream/354512", // Patupetty FM
+  "https://prclive4.listenon.in/Malayalam", // Radio City Malayalam
+  "https://schedule.radiolemonlive.com:7443/radio/8000/live", // Radio Lemon Live
+  "https://servidor15.brlogic.com:7110/live", // Radio Green
+  "https://streamer.radio.co/sd0b826808/listen", // Radio Beats
+  "http://radio.knpinfotech.co.in:8000/stream/1/", // KNP Infotech
+  "https://pallaviradio.out.airtime.pro/pallaviradio_a", // Pallavi Radio
+  "https://radioindia.net/radio/macfast/icecast.audio", // Radio Macfest
+  "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw", // Radio Mirchi Kerala
+  "https://radio.garden/api/ara/content/listen/pxGu8wy2/channel.mp3?1626457544992", // London Malayalam Radio
+  "https://eu10.fastcast4u.com/clubfmuae", // Club FM
+  "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8", // Radio Mango
   "https://edge.mixlr.com/channel/gvufg" // Asha Radio
 ];
 
