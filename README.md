@@ -1,10 +1,12 @@
-# web-radio-player
+# Live_Malayalam
 
 Online radio jukebox.
 
 ## Featuring
 
-* [Radio Paradise](https://www.radioparadise.com) 
-* [Party Gong](https://www.radiogong.de/)
-* [SomaFM Folk Forward](http://somafm.com/folkfwd/) 
-* [Punk FM](http://www.punkfm.co.uk/) 
+* [Ravana FM](http://stream.zeno.fm/y7n8qfmh838uv)
+* [Ravana FM 2](http://stream.zeno.fm/39zagfub938uv)
+* [94.3](https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac)
+* [Gramaphone FM](https://edge.mixlr.com/channel/axxln)
+* [Patupetty FM](https://listen.radioking.com/radio/305023/stream/354512)
+* [Asha Radio](https://edge.mixlr.com/channel/gvufg)
