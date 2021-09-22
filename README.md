@@ -10,7 +10,6 @@ Online radio jukebox.
 * [Gramaphone FM](https://edge.mixlr.com/channel/axxln)
 * [Patupetty FM](https://listen.radioking.com/radio/305023/stream/354512)
 * [Radio City Malayalam](https://prclive4.listenon.in/Malayalam)
-* [Radio Lemon Live](https://schedule.radiolemonlive.com:7443/radio/8000/live)
 * [Radio Green](https://servidor15.brlogic.com:7110/ve)
 * [Radio Beats](https://streamer.radio.co/sd0b826808/listen)
 * [KNP Infotech](http://radio.knpinfotech.co.in:8000/stream/1/?listening-from-radio-garden=1624554409280)
