@@ -39,7 +39,7 @@ const labels = [
 ];
 
 let playingIndex = 0; // current radio
-let playing = false; // stream status
+let playing = true; // stream status
 let music = null;
 
 setTimeout(function(){
