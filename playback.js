@@ -7,7 +7,7 @@ const sources = [
   "https://prclive4.listenon.in/Malayalam", // Radio City Malayalam
   "https://servidor15.brlogic.com:7110/live", // Radio Green
   "https://streamer.radio.co/sd0b826808/listen", // Radio Beats
-  "https://radio.knpinfotech.co.in:8000/stream/1/", // KNP Infotech
+  "http://radio.knpinfotech.co.in:8000/stream/1/", // KNP Infotech
   "https://pallaviradio.out.airtime.pro/pallaviradio_a", // Pallavi Radio
   "https://radioindia.net/radio/macfast/icecast.audio", // Radio Macfest
   "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw", // Radio Mirchi Kerala
@@ -26,7 +26,7 @@ const labels = [
   [ "Radio City Malayalam", "https://prclive4.listenon.in/Malayalam"],
   [ "Radio Green", "https://servidor15.brlogic.com:7110/ve"],
   [ "Radio Beats", "https://streamer.radio.co/sd0b826808/listen"],
-  [ "KNP Infotech", "https://radio.knpinfotech.co.in:8000/stream/1/"],
+  [ "KNP Infotech", "http://radio.knpinfotech.co.in:8000/stream/1/"],
   [ "Pallavi Radio", "https://pallaviradio.out.airtime.pro/pallaviradio_a"],
   [ "Radio Macfest", "https://radioindia.net/radio/macfast/icecast.audio"],
   [ "Radio Mirchi Kerala", "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw"],
