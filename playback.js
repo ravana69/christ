@@ -15,6 +15,7 @@ const sources = [
   "https://radio.garden/api/ara/content/listen/pxGu8wy2/channel.mp3?1626457544992", // London Malayalam Radio
   "https://eu10.fastcast4u.com/clubfmuae", // Club FM
   "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8", // Radio Mango
+  "https://strw1.openstream.co/1435", // Ahalia FM
   "https://edge.mixlr.com/channel/gvufg" // Asha Radio
 ];
 
@@ -35,6 +36,7 @@ const labels = [
   [ "London Malayalam Radio", "https://radio.garden/api/ara/content/listen/pxGu8wy2/channel.mp3?1626457544992"],
   [ "Club FM", "https://eu10.fastcast4u.com/clubfmuae"],
   [ "Radio Mango", "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8"],
+  [ "Ahalia FM", "https://strw1.openstream.co/1435"],
   [ "Asha Radio", "https://edge.mixlr.com/channel/gvufg"]
 ];
 
