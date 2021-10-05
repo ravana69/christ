@@ -16,6 +16,19 @@ const sources = [
   "https://eu10.fastcast4u.com/clubfmuae", // Club FM
   "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8", // Radio Mango
   "https://strw1.openstream.co/1435", // Ahalia FM
+  "http://148.72.210.73:8000/helloradio.ogg", // Hello Radio
+  "http://184.154.43.106:8145/stream", // Radio Media Village
+  "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3", // Suno
+  "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3", // Radio Suno
+  "https://cors.bitwize.com.lb/http://198.27.67.39:8000/pravasiradio.mp3", // Pravasi Bharti
+  "https://schedule.radiolemonlive.com:7443/radio/8000/live", // Radio Lemon Live
+  "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8", // Radio Kochi
+  "https://keralanewsradio.com/radio/8000/radio.mp3", // Hello Malayalam
+  "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/chunklist.m3u8", // Kozhikode Real FM
+  "https://radiomalayalamfm.com/radio/8000/radio.mp3", // Malayalam Media
+  "https://pallaviradio.out.airtime.pro/pallaviradio_a", // Pallavi Radio
+  "https://radioindia.net/radio/macfast/icecast.audio", // Radio Macfest
+  "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw", // Radio Mirchi Kerala
   "https://edge.mixlr.com/channel/gvufg" // Asha Radio
 ];
 
@@ -37,6 +50,19 @@ const labels = [
   [ "Club FM", "https://eu10.fastcast4u.com/clubfmuae"],
   [ "Radio Mango", "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8"],
   [ "Ahalia FM", "https://strw1.openstream.co/1435"],
+  [ "Hello Radio", "http://148.72.210.73:8000/helloradio.ogg"],
+  [ "Radio Media Village", "http://184.154.43.106:8145/stream"],
+  [ "Suno", "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"],
+  [ "Radio Suno", "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3"],
+  [ "Pravasi Bharti", "https://cors.bitwize.com.lb/http://198.27.67.39:8000/pravasiradio.mp3"],
+  [ "Radio Lemon Live", "https://schedule.radiolemonlive.com:7443/radio/8000/live"],
+  [ "Radio Kochi", "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8"],
+  [ "Hello Malayalam", "https://keralanewsradio.com/radio/8000/radio.mp3"],
+  [ "Kozhikode Real FM", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/chunklist.m3u8"],
+  [ "Malayalam Media", "https://radiomalayalamfm.com/radio/8000/radio.mp3"],
+  [ "Pallavi Radio", "https://pallaviradio.out.airtime.pro/pallaviradio_a"],
+  [ "Radio Macfest", "https://radioindia.net/radio/macfast/icecast.audio"],
+  [ "Radio Mirchi Kerala", "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw"],
   [ "Asha Radio", "https://edge.mixlr.com/channel/gvufg"]
 ];
 
