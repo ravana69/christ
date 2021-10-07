@@ -12,9 +12,9 @@ const sources = [
   "https://stream.radio.co/s9015a8e16/listen", // Radio Wind
   "https://listen.radioking.com/radio/378295/stream/428998", // Tharangam Radio
   "https://bozztv.com/36bay2/divine-event/tracks-v1a1/mono.m3u8", // DVN Radio
-  "http://37.187.93.104:8586/stream?listening-from-radio-garden=1624554589243", // Malayalam English Christian Radio
-  "http://37.59.47.192:8596/stream?listening-from-radio-garden=1624554653167", // Rafa Radio
-  "http://radio.zionmediait.com:5327/;?listening-from-radio-garden=1624555216896", // Krupa FM Bhilai
+  "http://66.55.145.43:7704/stream/1/", // Malayalam English Christian Radio
+  "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream", // Rafa Radio
+  "http://radio.zionmediait.com:5327/;", // Kripa FM Bhilai
   "https://gains.reviveradio.net/proxy/menorah?mp=/stream", // Menorah FM
   "http://37.187.93.104:8586/stream" // Blessings Radio
 ];
@@ -33,9 +33,9 @@ const labels = [
   [ "Radio Wind", "https://stream.radio.co/s9015a8e16/listen"],
   [ "Tharangam Radio", "https://listen.radioking.com/radio/378295/stream/428998"],
   [ "DVN Radio", "https://bozztv.com/36bay2/divine-event/tracks-v1a1/mono.m3u8"],
-  [ "Malayalam English Christian Radio", "http://37.187.93.104:8586/stream?listening-from-radio-garden=1624554589243"],
-  [ "Rafa Radio", "http://37.59.47.192:8596/stream?listening-from-radio-garden=1624554653167"],
-  [ "Krupa FM Bhilai", "http://radio.zionmediait.com:5327/;?listening-from-radio-garden=1624555216896"],
+  [ "Malayalam English Christian Radio", "http://66.55.145.43:7704/stream/1/"],
+  [ "Rafa Radio", "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream"],
+  [ "Kripa FM Bhilai", "http://radio.zionmediait.com:5327/;"],
   [ "Menorah FM", "https://gains.reviveradio.net/proxy/menorah?mp=/stream"],
   [ "Blessings Radio", "http://37.187.93.104:8586/stream"]
 ];
