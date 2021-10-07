@@ -1,69 +1,43 @@
 const sources = [
-  "http://stream.zeno.fm/y7n8qfmh838uv", // Ravana FM
-  "http://stream.zeno.fm/39zagfub938uv", // Ravana FM 2
-  "http://stream.zeno.fm/v5c2bw72p48uv", // Ravana English
-  "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac", // 94.3
-  "https://edge.mixlr.com/channel/axxln", // Gramaphone FM
-  "https://listen.radioking.com/radio/305023/stream/354512", // Patupetty FM
-  "https://prclive4.listenon.in/Malayalam", // Radio City Malayalam
-  "https://servidor15.brlogic.com:7110/live", // Radio Green
-  "https://streamer.radio.co/sd0b826808/listen", // Radio Beats
-  "https://cors.bitwize.com.lb/http://radio.knpinfotech.co.in:8000/;", // KNP Infotech
-  "https://pallaviradio.out.airtime.pro/pallaviradio_a", // Pallavi Radio
-  "https://radioindia.net/radio/macfast/icecast.audio", // Radio Macfest
-  "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw", // Radio Mirchi Kerala
-  "https://radio.garden/api/ara/content/listen/pxGu8wy2/channel.mp3?1626457544992", // London Malayalam Radio
-  "https://eu10.fastcast4u.com/clubfmuae", // Club FM
-  "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8", // Radio Mango
-  "https://strw1.openstream.co/1435", // Ahalia FM
-  "http://148.72.210.73:8000/helloradio.ogg", // Hello Radio
-  "http://184.154.43.106:8145/stream", // Radio Media Village
-  "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3", // Suno
-  "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3", // Radio Suno
-  "https://cors.bitwize.com.lb/http://198.27.67.39:8000/pravasiradio.mp3", // Pravasi Bharti
-  "https://schedule.radiolemonlive.com:7443/radio/8000/live", // Radio Lemon Live
-  "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8", // Radio Kochi
-  "https://keralanewsradio.com/radio/8000/radio.mp3", // Hello Malayalam
-  "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/chunklist.m3u8", // Kozhikode Real FM
-  "https://radiomalayalamfm.com/radio/8000/radio.mp3", // Malayalam Media
-  "https://pallaviradio.out.airtime.pro/pallaviradio_a", // Pallavi Radio
-  "https://radioindia.net/radio/macfast/icecast.audio", // Radio Macfest
-  "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw", // Radio Mirchi Kerala
-  "https://edge.mixlr.com/channel/gvufg" // Asha Radio
+  "http://rd.shalombeatsradio.com:8006/stream", // Shalom Beats
+  "http://88.198.138.88:8000/jesusradio/;.m3u", // Jesus Radio Malayalam
+  "http://199.195.194.140:8012/stream", // Sehion Radio
+  "http://viadj.viastreaming.net:7084/", // Psalms Radio
+  "https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream", // Radio Maria
+  "https://ephphatha.radioca.st/stream?type=http&nocache=15206", // Ephphatha
+  "https://s2.radio.co/sf61790a26/listen", // Malayalam Christian Network
+  "https://stream.radio.co/s1383afdc9/listen?ver=52115", // Shalom
+  "http://live.jesuscomingfm.com:8584/", // Jesus Coming FM
+  "http://5.79.88.132:7233/;type=mp3", // Gloria Radio Malayalam
+  "https://stream.radio.co/s9015a8e16/listen", // Radio Wind
+  "https://listen.radioking.com/radio/378295/stream/428998", // Tharangam Radio
+  "https://bozztv.com/36bay2/divine-event/tracks-v1a1/mono.m3u8", // DVN Radio
+  "http://37.187.93.104:8586/stream?listening-from-radio-garden=1624554589243", // Malayalam English Christian Radio
+  "http://37.59.47.192:8596/stream?listening-from-radio-garden=1624554653167", // Rafa Radio
+  "http://radio.zionmediait.com:5327/;?listening-from-radio-garden=1624555216896", // Krupa FM Bhilai
+  "https://gains.reviveradio.net/proxy/menorah?mp=/stream", // Menorah FM
+  "http://37.187.93.104:8586/stream" // Blessings Radio
 ];
 
 const labels = [
-  [ "Ravana FM", "http://stream.zeno.fm/y7n8qfmh838uv"],
-  [ "Ravana FM 2", "http://stream.zeno.fm/39zagfub938uv"],
-  [ "Ravana English", "http://stream.zeno.fm/v5c2bw72p48uv"],
-  [ "94.3", "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac"],
-  [ "Gramaphone FM", "https://edge.mixlr.com/channel/axxln"],
-  [ "Patupetty FM", "https://listen.radioking.com/radio/305023/stream/354512"],
-  [ "Radio City Malayalam", "https://prclive4.listenon.in/Malayalam"],
-  [ "Radio Green", "https://servidor15.brlogic.com:7110/ve"],
-  [ "Radio Beats", "https://streamer.radio.co/sd0b826808/listen"],
-  [ "KNP Infotech", "https://cors.bitwize.com.lb/http://radio.knpinfotech.co.in:8000/;"],
-  [ "Pallavi Radio", "https://pallaviradio.out.airtime.pro/pallaviradio_a"],
-  [ "Radio Macfest", "https://radioindia.net/radio/macfast/icecast.audio"],
-  [ "Radio Mirchi Kerala", "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw"],
-  [ "London Malayalam Radio", "https://radio.garden/api/ara/content/listen/pxGu8wy2/channel.mp3?1626457544992"],
-  [ "Club FM", "https://eu10.fastcast4u.com/clubfmuae"],
-  [ "Radio Mango", "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8"],
-  [ "Ahalia FM", "https://strw1.openstream.co/1435"],
-  [ "Hello Radio", "http://148.72.210.73:8000/helloradio.ogg"],
-  [ "Radio Media Village", "http://184.154.43.106:8145/stream"],
-  [ "Suno", "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"],
-  [ "Radio Suno", "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3"],
-  [ "Pravasi Bharti", "https://cors.bitwize.com.lb/http://198.27.67.39:8000/pravasiradio.mp3"],
-  [ "Radio Lemon Live", "https://schedule.radiolemonlive.com:7443/radio/8000/live"],
-  [ "Radio Kochi", "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8"],
-  [ "Hello Malayalam", "https://keralanewsradio.com/radio/8000/radio.mp3"],
-  [ "Kozhikode Real FM", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/chunklist.m3u8"],
-  [ "Malayalam Media", "https://radiomalayalamfm.com/radio/8000/radio.mp3"],
-  [ "Pallavi Radio", "https://pallaviradio.out.airtime.pro/pallaviradio_a"],
-  [ "Radio Macfest", "https://radioindia.net/radio/macfast/icecast.audio"],
-  [ "Radio Mirchi Kerala", "http://n02.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABdW3c0j8AU1QT19VJzvtLWw"],
-  [ "Asha Radio", "https://edge.mixlr.com/channel/gvufg"]
+  [ "Shalom Beats", "http://stream.zeno.fm/y7n8qfmh838uv"],
+  [ "Jesus Radio Malayalam", "http://stream.zeno.fm/39zagfub938uv"],
+  [ "Sehion Radio", "http://stream.zeno.fm/v5c2bw72p48uv"],
+  [ "Psalms Radio", "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac"],
+  [ "Radio Maria", "https://edge.mixlr.com/channel/axxln"],
+  [ "Ephphatha", "https://ephphatha.radioca.st/stream?type=http&nocache=15206"],
+  [ "Malayalam Christian Network", "https://s2.radio.co/sf61790a26/listen"],
+  [ "Shalom", "https://stream.radio.co/s1383afdc9/listen?ver=52115"],
+  [ "Jesus Coming FM", "http://live.jesuscomingfm.com:8584/"],
+  [ "Gloria Radio Malayalam", "http://5.79.88.132:7233/;type=mp3"],
+  [ "Radio Wind", "https://stream.radio.co/s9015a8e16/listen"],
+  [ "Tharangam Radio", "https://listen.radioking.com/radio/378295/stream/428998"],
+  [ "DVN Radio", "https://bozztv.com/36bay2/divine-event/tracks-v1a1/mono.m3u8"],
+  [ "Malayalam English Christian Radio", "http://37.187.93.104:8586/stream?listening-from-radio-garden=1624554589243"],
+  [ "Rafa Radio", "http://37.59.47.192:8596/stream?listening-from-radio-garden=1624554653167"],
+  [ "Krupa FM Bhilai", "http://radio.zionmediait.com:5327/;?listening-from-radio-garden=1624555216896"],
+  [ "Menorah FM", "https://gains.reviveradio.net/proxy/menorah?mp=/stream"],
+  [ "Blessings Radio", "http://37.187.93.104:8586/stream"]
 ];
 
 let playingIndex = 0; // current radio
