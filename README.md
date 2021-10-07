@@ -7,7 +7,7 @@ Online radio jukebox.
 * **01** [Ravana FM 2](http://stream.zeno.fm/39zagfub938uv)
 * **02** [Ravana English](http://stream.zeno.fm/v5c2bw72p48uv)
 * **03** [94.3](https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac)
-* **04** [⚠️Gramaphone FM⚠️](https://edge.mixlr.com/channel/axxln)
+* **04** [Gramaphone FM](https://edge.mixlr.com/channel/axxln)
 * **05** [Patupetty FM](https://listen.radioking.com/radio/305023/stream/354512)
 * **06** [Radio City Malayalam](https://prclive4.listenon.in/Malayalam)
 * **07** [Radio Green](https://servidor15.brlogic.com:7110/ve)
