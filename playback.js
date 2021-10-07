@@ -20,11 +20,11 @@ const sources = [
 ];
 
 const labels = [
-  [ "Shalom Beats", "http://stream.zeno.fm/y7n8qfmh838uv"],
-  [ "Jesus Radio Malayalam", "http://stream.zeno.fm/39zagfub938uv"],
-  [ "Sehion Radio", "http://stream.zeno.fm/v5c2bw72p48uv"],
-  [ "Psalms Radio", "https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac"],
-  [ "Radio Maria", "https://edge.mixlr.com/channel/axxln"],
+  [ "Shalom Beats", "http://rd.shalombeatsradio.com:8006/stream"],
+  [ "Jesus Radio Malayalam", "http://88.198.138.88:8000/jesusradio/;.m3u"],
+  [ "Sehion Radio", "http://199.195.194.140:8012/stream"],
+  [ "Psalms Radio", "http://viadj.viastreaming.net:7084/"],
+  [ "Radio Maria", "https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream"],
   [ "Ephphatha", "https://ephphatha.radioca.st/stream?type=http&nocache=15206"],
   [ "Malayalam Christian Network", "https://s2.radio.co/sf61790a26/listen"],
   [ "Shalom", "https://stream.radio.co/s1383afdc9/listen?ver=52115"],
