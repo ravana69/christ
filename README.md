@@ -11,7 +11,7 @@ Online Christian Song jukebox.
 * **05** [Ephphatha](https://ephphatha.radioca.st/stream?type=http&nocache=15206)
 * **06** [Malayalam Christian Network](https://s2.radio.co/sf61790a26/listen)
 * **07** [Shalom](https://stream.radio.co/s1383afdc9/listen?ver=52115)
-* **08** [Jesus Coming FM](http://live.jesuscomingfm.com:8584/listen.pls?sid=1)
+* **08** [Jesus Coming FM](http://live.jesuscomingfm.com:8132/;)
 * **09** [Gloria Radio Malayalam](http://5.79.88.132:7233/;type=mp3)
 * **10** [Radio Wind](https://stream.radio.co/s9015a8e16/listen)
 * **11** [Tharangam Radio](https://listen.radioking.com/radio/378295/stream/428998)
