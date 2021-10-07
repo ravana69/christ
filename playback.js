@@ -2,7 +2,7 @@ const sources = [
   "http://rd.shalombeatsradio.com:8006/stream", // Shalom Beats
   "http://88.198.138.88:8000/jesusradio/;.m3u", // Jesus Radio Malayalam
   "http://199.195.194.140:8012/stream", // Sehion Radio
-  "http://viadj.viastreaming.net:7084/", // Psalms Radio
+  "http://5.79.88.132:7084/;stream.mp3", // Psalms Radio
   "https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream", // Radio Maria
   "https://ephphatha.radioca.st/stream?type=http&nocache=15206", // Ephphatha
   "https://s2.radio.co/sf61790a26/listen", // Malayalam Christian Network
@@ -23,7 +23,7 @@ const labels = [
   [ "Shalom Beats", "http://rd.shalombeatsradio.com:8006/stream"],
   [ "Jesus Radio Malayalam", "http://88.198.138.88:8000/jesusradio/;.m3u"],
   [ "Sehion Radio", "http://199.195.194.140:8012/stream"],
-  [ "Psalms Radio", "http://viadj.viastreaming.net:7084/"],
+  [ "Psalms Radio", "http://5.79.88.132:7084/;stream.mp3"],
   [ "Radio Maria", "https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream"],
   [ "Ephphatha", "https://ephphatha.radioca.st/stream?type=http&nocache=15206"],
   [ "Malayalam Christian Network", "https://s2.radio.co/sf61790a26/listen"],
