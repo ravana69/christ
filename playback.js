@@ -7,7 +7,7 @@ const sources = [
   "https://ephphatha.radioca.st/stream?type=http&nocache=15206", // Ephphatha
   "https://s2.radio.co/sf61790a26/listen", // Malayalam Christian Network
   "https://stream.radio.co/s1383afdc9/listen?ver=52115", // Shalom
-  "http://live.jesuscomingfm.com:8584/listen.pls?sid=1", // Jesus Coming FM
+  "http://live.jesuscomingfm.com:8132/;", // Jesus Coming FM
   "http://5.79.88.132:7233/;type=mp3", // Gloria Radio Malayalam
   "https://stream.radio.co/s9015a8e16/listen", // Radio Wind
   "https://listen.radioking.com/radio/378295/stream/428998", // Tharangam Radio
@@ -28,7 +28,7 @@ const labels = [
   [ "Ephphatha", "https://ephphatha.radioca.st/stream?type=http&nocache=15206"],
   [ "Malayalam Christian Network", "https://s2.radio.co/sf61790a26/listen"],
   [ "Shalom", "https://stream.radio.co/s1383afdc9/listen?ver=52115"],
-  [ "Jesus Coming FM", "http://live.jesuscomingfm.com:8584/listen.pls?sid=1"],
+  [ "Jesus Coming FM", "http://live.jesuscomingfm.com:8132/;"],
   [ "Gloria Radio Malayalam", "http://5.79.88.132:7233/;type=mp3"],
   [ "Radio Wind", "https://stream.radio.co/s9015a8e16/listen"],
   [ "Tharangam Radio", "https://listen.radioking.com/radio/378295/stream/428998"],
