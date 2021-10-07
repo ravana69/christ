@@ -6,7 +6,7 @@ Online Christian Song jukebox.
 * **00** [Shalom Beats](http://rd.shalombeatsradio.com:8006/stream)
 * **01** [Jesus Radio Malayalam](http://88.198.138.88:8000/jesusradio/;.m3u)
 * **02** [Sehion Radio](http://199.195.194.140:8012/stream)
-* **03** [Psalms Radio](http://viadj.viastreaming.net:7084/)
+* **03** [Psalms Radio](http://5.79.88.132:7084/;stream.mp3)
 * **04** [Radio Maria](https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream)
 * **05** [Ephphatha](https://ephphatha.radioca.st/stream?type=http&nocache=15206)
 * **06** [Malayalam Christian Network](https://s2.radio.co/sf61790a26/listen)
