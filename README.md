@@ -15,7 +15,7 @@ Online Christian Song jukebox.
 * **09** [Gloria Radio Malayalam](http://5.79.88.132:7233/;type=mp3)
 * **10** [Radio Wind](https://stream.radio.co/s9015a8e16/listen)
 * **11** [Tharangam Radio](https://listen.radioking.com/radio/378295/stream/428998)
-* **12** [DVN Radio](____________________)
+* **12** [DVN Radio](https://bozztv.com/36bay2/divine-event/tracks-v1a1/mono.m3u8)
 * **13** [Malayalam English Christian Radio](http://37.187.93.104:8586/stream?listening-from-radio-garden=1624554589243)
 * **14** [Rafa Radio](http://37.59.47.192:8596/stream?listening-from-radio-garden=1624554653167)
 * **15** [Krupa FM Bhilai](http://radio.zionmediait.com:5327/;?listening-from-radio-garden=1624555216896)
