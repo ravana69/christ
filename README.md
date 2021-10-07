@@ -19,6 +19,5 @@ Online Christian Song jukebox.
 * **13** [Malayalam English Christian Radio](http://37.187.93.104:8586/stream?listening-from-radio-garden=1624554589243)
 * **14** [Rafa Radio](http://37.59.47.192:8596/stream?listening-from-radio-garden=1624554653167)
 * **15** [Krupa FM Bhilai](http://radio.zionmediait.com:5327/;?listening-from-radio-garden=1624555216896)
-* **16** [Radio Wind](https://stream.radio.co/s9015a8e16/listen)
-* **17** [Menorah FM](https://gains.reviveradio.net/proxy/menorah?mp=/stream)
-* **18** [Blessings Radio](http://37.187.93.104:8586/stream)
+* **16** [Menorah FM](https://gains.reviveradio.net/proxy/menorah?mp=/stream)
+* **17** [Blessings Radio](http://37.187.93.104:8586/stream)
