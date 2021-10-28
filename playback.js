@@ -16,6 +16,8 @@ const sources = [
   "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream", // Rafa Radio
   "http://radio.zionmediait.com:5327/;", // Kripa FM Bhilai
   "https://gains.reviveradio.net/proxy/menorah?mp=/stream", // Menorah FM
+  "https://stream.radio.co/sf2c714555/listen", // Old Fashioned Christian Music Live
+  "https://servidor15.brlogic.com:7602/live", // ILR (INDIA LIVE RADIO) Ernakulam
   "http://37.187.93.104:8586/stream" // Blessings Radio
 ];
 
@@ -37,6 +39,8 @@ const labels = [
   [ "Rafa Radio", "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream"],
   [ "Kripa FM Bhilai", "http://radio.zionmediait.com:5327/;"],
   [ "Menorah FM", "https://gains.reviveradio.net/proxy/menorah?mp=/stream"],
+  [ "Old Fashioned Christian Music Live", "https://stream.radio.co/sf2c714555/listen"],
+  [ "ILR (INDIA LIVE RADIO) Ernakulam", "https://servidor15.brlogic.com:7602/live"],
   [ "Blessings Radio", "http://37.187.93.104:8586/stream"]
 ];
 
