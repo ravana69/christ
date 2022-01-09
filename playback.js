@@ -11,7 +11,7 @@ const sources = [
   "http://5.79.88.132:7233/;type=mp3", // Gloria Radio Malayalam
   "https://stream.radio.co/s9015a8e16/listen", // Radio Wind
   "https://listen.radioking.com/radio/378295/stream/428998", // Tharangam Radio
-  "https://bozztv.com/36bay2/divine-event/tracks-v1a1/mono.m3u8", // DVN Radio
+  "https://ice31.securenetsystems.net/DVN", // DVN Radio
   "http://66.55.145.43:7704/stream/1/", // Malayalam English Christian Radio
   "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream", // Rafa Radio
   "http://radio.zionmediait.com:5327/;", // Kripa FM Bhilai
@@ -34,7 +34,7 @@ const labels = [
   [ "Gloria Radio Malayalam", "http://5.79.88.132:7233/;type=mp3"],
   [ "Radio Wind", "https://stream.radio.co/s9015a8e16/listen"],
   [ "Tharangam Radio", "https://listen.radioking.com/radio/378295/stream/428998"],
-  [ "DVN Radio", "https://bozztv.com/36bay2/divine-event/tracks-v1a1/mono.m3u8"],
+  [ "DVN Radio", "https://ice31.securenetsystems.net/DVN"],
   [ "Malayalam English Christian Radio", "http://66.55.145.43:7704/stream/1/"],
   [ "Rafa Radio", "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream"],
   [ "Kripa FM Bhilai", "http://radio.zionmediait.com:5327/;"],
